@@ -21,7 +21,7 @@
 
 ## Inspiration
 
-Before I discovered my passion for software engineering, I was a middle school special educator in Brooklyn, NY. As a teacher, I found that music was such a powerful way to help my students learn language since they all had a natural connection to it and it provided a context for their learning. Drawing from my experiences in the classroom, I was inspired to create Lyrics For Learning.
+Before I discovered my passion for software engineering, I we where tutors at Glenforest Academic thats where we find out that music was such a powerful way to help my students learn language since they all had a natural connection to it and it provided a context for their learning. Drawing from my experiences in the classroom, I was inspired to create Lyrics For Learning.
 
 Initially, Lyrics for Learning was going to solely allow students to check out linguistic breakdowns for words within songs. However, after reflecting upon how I leveraged music in my own classroom and getting feedback from other teachers, I decided to also allow users to share their own interpretations of what words mean within songs. By exploring both the literal and figurative meaning of words in songs they know, students can deepen their understanding of the English language in a context that is familiar to them.
 
