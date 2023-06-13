@@ -143,7 +143,7 @@ Licenses for images from Wikimedia Commons:
 ### **Polykarp Amukuhu**
 ### **Elton Mziti**
 
-David Kwan is a former teacher and current full stack software engineer with a passion for creating products that connect and empower others. He used his skills on the back-end and front-end to create Lyrics for Learning.
+Elton and Polykarp are former tutors and current full stack software engineer with a passion for creating products that connect and empower others. We used our skills on the back-end and front-end to create Lyrics for Learning.
 
 [Github](https://github.com/emziti)
 [Github](https://github.com/oshikombo)
